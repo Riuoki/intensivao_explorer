@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://riuoki.github.io/intensivao_explorer/)
 
 <br/>
 
